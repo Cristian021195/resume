@@ -1,0 +1,12 @@
+section{
+    margin: 0 auto;
+    min-height: 30em;
+}
+h1{
+    text-align: center;
+}
+@media only screen and (max-width: 768px) {
+    section{
+        margin:1em;
+    }
+}

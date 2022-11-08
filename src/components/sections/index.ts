@@ -1,0 +1,6 @@
+export * from "./inicio"
+export * from "./referencia"
+export * from "./conocimientos"
+export * from "./contacto"
+export * from "./proyectos"
+export * from "./extras"
